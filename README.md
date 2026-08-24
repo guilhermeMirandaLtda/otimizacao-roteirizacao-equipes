@@ -5,7 +5,7 @@ problema clássico de operações: alocar e sequenciar atendimentos de campo ent
 equipes técnicas, minimizando deslocamento e atraso em relação a prazos de
 atendimento (SLA), sujeito a restrições de jornada de trabalho.
 
-**Autor:** Guilherme Miranda — [linkedin.com/in/guilherme-miranda-ltda](https://www.linkedin.com/in/guilherme-miranda-ltda/) · [github.com/gmirand](https://github.com/gmirand)
+**Autor:** Guilherme Miranda — [linkedin.com/in/guilherme-miranda-ltda](https://www.linkedin.com/in/guilherme-miranda-ltda/) · [github.com/guilhermeMirandaLtda](https://github.com/guilhermeMirandaLtda)
 
 > **Sobre os dados:** todos os dados usados neste projeto são **sintéticos**,
 > gerados por distribuição aleatória com seed fixa (`src/data_generator.py`).
