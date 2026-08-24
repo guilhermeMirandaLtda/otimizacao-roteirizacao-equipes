@@ -1,0 +1,16 @@
+id,x_km,y_km,service_type,priority,duration_min,earliest_start_min,due_min
+P01,17.03,5.0,instalacao_nova,3,86,330,540
+P02,9.66,12.2,inspecao,3,40,327,540
+P03,18.89,1.4,manutencao_preventiva,2,82,279,427
+P04,15.34,18.21,manutencao_preventiva,2,59,198,330
+P05,2.07,13.9,manutencao_preventiva,2,85,296,462
+P06,21.46,16.68,manutencao_preventiva,2,54,116,256
+P07,16.75,7.8,emergencial,1,37,327,361
+P08,17.29,21.36,manutencao_preventiva,2,74,233,391
+P09,2.82,19.65,manutencao_preventiva,2,72,192,333
+P10,9.91,17.12,instalacao_nova,3,68,212,457
+P11,8.16,4.28,manutencao_preventiva,2,82,238,378
+P12,20.39,10.27,inspecao,3,25,15,248
+P13,14.17,0.96,instalacao_nova,3,109,58,221
+P14,18.1,3.39,manutencao_preventiva,2,40,103,243
+P15,9.76,15.03,inspecao,3,40,48,317
